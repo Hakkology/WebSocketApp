@@ -6,6 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddSingleton<WebSocketModel>();
+builder.Services.AddTransient<WebSocketHandler>();
 
 var app = builder.Build();
 
