@@ -1,0 +1,15 @@
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/bin/Debug/net7.0/WebSocketConsole
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/bin/Debug/net7.0/WebSocketConsole.deps.json
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/bin/Debug/net7.0/WebSocketConsole.runtimeconfig.json
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/bin/Debug/net7.0/WebSocketConsole.dll
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/bin/Debug/net7.0/WebSocketConsole.pdb
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/obj/Debug/net7.0/WebSocketConsole.csproj.AssemblyReference.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/obj/Debug/net7.0/WebSocketConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/obj/Debug/net7.0/WebSocketConsole.AssemblyInfoInputs.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/obj/Debug/net7.0/WebSocketConsole.AssemblyInfo.cs
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/obj/Debug/net7.0/WebSocketConsole.csproj.CoreCompileInputs.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/obj/Debug/net7.0/WebSocketConsole.dll
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/obj/Debug/net7.0/refint/WebSocketConsole.dll
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/obj/Debug/net7.0/WebSocketConsole.pdb
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/obj/Debug/net7.0/WebSocketConsole.genruntimeconfig.cache
+/home/hakan/Desktop/Hakan/Programming/C#/WebSocketApp/WebSocketConsole/obj/Debug/net7.0/ref/WebSocketConsole.dll
