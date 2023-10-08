@@ -3,6 +3,39 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <p><button onclick="send();">send</button></p>
+    <p><input id="wbinput" type="text"></p>
+    <p>Answer:</p>
+    <p>id="answerbox"</p>
+    <p>Activity:</p>
+    <p>id="activitybox</p>
+
+    <script>
+
+        var testsocket = new WebSocket("ws://localhost:5098/ws");
+
+        testsocket.onopen = function () {
+            document.getElementById("activitybox").innerHTML = testsocket.OPEN;
+        }
+
+        testsocket.onclose = function () {
+            document.getElementById("activitybox").innerHTML = testsocket.CLOSE;
+        }
+
+        testsocket.onerror = function () {
+            
+        }
+
+        testsocket.onmessage = function (e) {
+            document.getElementById("answerbox").innerHTML += "\nReceived: " + e.data;
+        }
+
+        function send() {
+            testsocket.send(document.getElementById("wbinput").value);
+        }
+
+    </script>
+
+
 </div>
